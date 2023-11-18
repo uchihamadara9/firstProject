@@ -1,2 +1,4 @@
 # firstProject
-my first git project
+my first git project 
+<br>
+i am learning about git
